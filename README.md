@@ -1,4 +1,4 @@
-# docker_image-debian8_lamp
+# Docker image: debian8_lamp
 
 ## Description
 
